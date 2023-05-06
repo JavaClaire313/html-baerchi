@@ -1,0 +1,29 @@
+
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+
+.w3-row-padding img {margin-bottom: 12px}
+
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(Börch.jpg);
+  min-height: 100%;
+}
+
+
+.w3-jumbo{
+    
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Quicksand', sans-serif;
+
+font-weight: bolder;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
+
+}
